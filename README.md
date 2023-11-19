@@ -4,7 +4,7 @@ A simple periodic table application
 
 ## Description
 
-This project was created as a side idea which will be eventually updated. A resizable periodic table of elements for educational purposes of encouraging love for chemistry and providing more content in a dynamic manner.
+This project was created as a side idea which will be eventually updated. A resizable periodic table of elements for educational purposes and encouraging love for chemistry and providing more content in a dynamic manner.
 
 Note: Still in development, the purpose of this project is purely educational and for personal growth.
 
